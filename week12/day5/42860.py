@@ -45,4 +45,4 @@ def solution(name):
         answer += left if left < right else right
         idx += -left if left < right else right
 
-print(solution("JEROEN"))
+print(solution("CANAAAAANAN"))
